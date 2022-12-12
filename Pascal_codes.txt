@@ -1,0 +1,21 @@
+Belajar Kode Program Pascal
+Variabel
+
+program belajar_variabel;
+(*Mendeklarasikan variabel*)
+var
+    (*nama_variabel : tipe_data*)
+    nama : String;
+    usia : Integer;
+begin
+    (*Mengisi nilai variabel*)
+    nama := 'Fazri';
+    usia := 25;
+    
+    (*Menampilkan nilai variabel*)
+    writeln(nama);
+    writeln(usia);
+    
+    readln;
+end.
+https://onlinegdb.com/Qerzn8XkN8

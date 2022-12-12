@@ -3,5 +3,8 @@ MFM Pembutan Web dan Aplikasi
 - Membuat platform tugas
 - Membuat aplikasi
   * Membuat aplikasi pak Bambang
+  * Membuat web pak Bambang
 - Membuat vlog
+  ^ Komedi
 - Membuat konten youtube
+  ^ Komedi

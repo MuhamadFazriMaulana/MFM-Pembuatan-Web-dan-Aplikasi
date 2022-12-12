@@ -1,0 +1,56 @@
+Belajar Kode Program Pascal
+Variabel
+
+program belajar_variabel;
+(*Mendeklarasikan variabel*)
+var
+    (*nama_variabel : tipe_data*)
+    nama : String;
+    usia : Integer;
+begin
+    (*Mengisi nilai variabel*)
+    nama := 'Fazri';
+    usia := 25;
+    
+    (*Menampilkan nilai variabel*)
+    writeln(nama);
+    writeln(usia);
+    
+    readln;
+end.
+https://onlinegdb.com/Qerzn8XkN8
+
+Konstanta
+
+program belajar_konstanta;
+(*Mendeklarasikan konstanta*)
+var
+    (*nama_konstanta : tipe_konstanta*)
+    
+    phi : String;
+    dollar : Integer;
+begin
+    (*Mengisi nilai konstanta*)
+    phi := '3.14';
+    dollar := 14250;
+    
+    (*Menampilkan nilai konstanta*)
+    writeln(phi);
+    writeln(dollar);
+    
+    readln;
+end.
+
+https://onlinegdb.com/oFX1tean4
+
+program belajar_konstanta;
+(*Mendeklarasikan konstanta*)
+
+const
+    (*nama_konstanta : nilai konstanta*)
+    PHI = 3.14;
+    DOLLAR = 14250;
+begin
+end.
+
+https://onlinegdb.com/zTuX3vZ_c

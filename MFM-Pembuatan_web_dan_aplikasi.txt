@@ -6,4 +6,3 @@ MFM Pembutan Web dan Aplikasi
   * aplikasi pendanaan
 - Membuat vlog
   * vlog sarkas
-

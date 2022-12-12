@@ -19,3 +19,25 @@ begin
     readln;
 end.
 https://onlinegdb.com/Qerzn8XkN8
+
+Konstanta
+
+program belajar_konstanta;
+(*Mendeklarasikan konstanta*)
+var
+    (*nama_konstanta : tipe_konstanta*)
+    phi : String;
+    dollar : Integer;
+begin
+    (*Mengisi nilai konstanta*)
+    phi := '3.14';
+    dollar := 14250;
+    
+    (*Menampilkan nilai konstanta*)
+    writeln(phi);
+    writeln(dollar);
+    
+    readln;
+end.
+
+https://onlinegdb.com/oFX1tean4

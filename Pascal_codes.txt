@@ -26,6 +26,7 @@ program belajar_konstanta;
 (*Mendeklarasikan konstanta*)
 var
     (*nama_konstanta : tipe_konstanta*)
+    
     phi : String;
     dollar : Integer;
 begin
@@ -41,3 +42,15 @@ begin
 end.
 
 https://onlinegdb.com/oFX1tean4
+
+program belajar_konstanta;
+(*Mendeklarasikan konstanta*)
+
+const
+    (*nama_konstanta : nilai konstanta*)
+    PHI = 3.14;
+    DOLLAR = 14250;
+begin
+end.
+
+https://onlinegdb.com/zTuX3vZ_c

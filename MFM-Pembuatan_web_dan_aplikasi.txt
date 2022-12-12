@@ -2,5 +2,6 @@ MFM Pembutan Web dan Aplikasi
 - Konsisten untuk belajar
 - Membuat platform tugas
 - Membuat aplikasi
+  * Membuat aplikasi pak Bambang
 - Membuat vlog
 - Membuat konten youtube
